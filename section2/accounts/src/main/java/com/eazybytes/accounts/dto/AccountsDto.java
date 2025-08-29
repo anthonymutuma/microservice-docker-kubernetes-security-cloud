@@ -30,5 +30,5 @@ public class AccountsDto {
             description = "Bank branch address", example = "123 NewYork"
     )
     private String branchAddress;
-    //29th August 2025
+    //Today's Date
 }
