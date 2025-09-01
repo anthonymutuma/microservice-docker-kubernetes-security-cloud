@@ -17,7 +17,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 			contact = @Contact(
 					name = "Anthony",
 					email = "anthonymutuma3@gmail.com",
-					url = "https://github.com/anthonymutuma3"
+					url = "https://github.com/anthonymutuma"
 )
 		)
 )
